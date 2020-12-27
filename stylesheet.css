@@ -104,10 +104,12 @@ input, select {
 
 /* Common */
 .img{
-    width: 750px;
+    width: 90%;
+    margin: 0 auto;
 }
 .img img{
     width: 100%;
+    
 }
 body {
   background: #F6F6F6;
@@ -140,7 +142,7 @@ body {
 .nav {
     margin: 10px 0;
     display: inline-block;
-    width: 749px;
+    width: 100%;
     text-align: center;
 }
 .nav ul {
